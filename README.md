@@ -6,6 +6,7 @@ This repository contains my learning journey and projects in:
 - Excel
 - Power BI
 - Tableau
+- Python
 
 ## Skills
 - Data Cleaning
@@ -20,3 +21,4 @@ This repository contains my learning journey and projects in:
 - Excel Practice Projects
 - Power BI Dashboards
 - Tableau Dashboards
+- Python pandas data visualization and Web Scraping projects. 
